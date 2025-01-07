@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="prUNQ5UM-YzXjqic-iiq">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-ljhCGMbWDJll1F6zcmg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ljhCGMbWDJll1F6zcmg-2" value="电表模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ljhCGMbWDJll1F6zcmg-3" value="&lt;ul&gt;&lt;li&gt;合相功率&lt;/li&gt;&lt;li&gt;合相功率滤波结果&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ljhCGMbWDJll1F6zcmg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="150" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-ljhCGMbWDJll1F6zcmg-5" value="储能机模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ljhCGMbWDJll1F6zcmg-6" value="&lt;ul&gt;&lt;li&gt;AC输出功率&lt;/li&gt;&lt;li&gt;电池可充功率&lt;/li&gt;&lt;li&gt;PV输出功率&lt;/li&gt;&lt;li&gt;AC输出功率千分比&lt;/li&gt;&lt;li&gt;电池输出限制百分比&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="147.5" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
