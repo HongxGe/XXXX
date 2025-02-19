@@ -1,9 +1,134 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="NMOKzdHXdRhH_CAdZjg4">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="1120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-2" value="硬件层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-3" value="485" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-5" value="SPI-网口芯片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-6" value="UART-4G模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-7" value="GPIO-LED灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="330" width="1120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-9" value="驱动层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="345" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-10" value="485驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-12" value="网口驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-13" value="4G模块驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-14" value="LED灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="1120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-16" value="中间件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="1120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-23" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-24" value="北向服务器通信模块modbus tcp/104/私有协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-25" value="FTP下载模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-26" value="HTTP下载模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d38NAKe-3wJxGRfoSoEG-27" target="d38NAKe-3wJxGRfoSoEG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-44" value="依赖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d38NAKe-3wJxGRfoSoEG-42">
+          <mxGeometry x="-0.06" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-27" value="南向数据采集模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-28" value="LED显示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-29" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="60" as="sourcePoint" />
+            <mxPoint x="270" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-31" value="通过网口或者4g模块和服务器通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-33" value="FTP服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="60" as="sourcePoint" />
+            <mxPoint x="414" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-35" value="通过网口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-36" value="HTTP服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="60" as="sourcePoint" />
+            <mxPoint x="560" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-38" value="通过网口或者4g模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d38NAKe-3wJxGRfoSoEG-40" target="d38NAKe-3wJxGRfoSoEG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-40" value="EMS功率控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d38NAKe-3wJxGRfoSoEG-43" value="依赖" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
